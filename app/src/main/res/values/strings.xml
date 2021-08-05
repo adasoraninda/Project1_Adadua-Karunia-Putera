@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Input Nama App</string>
+    <string name="aplikasi_mobile">Aplikasi Mobile</string>
+    <string name="masukan_nama_anda">Masukan Nama Anda</string>
+    <string name="nama">Nama</string>
+    <string name="tampilkan">Tampilkan</string>
+    <string name="hasil">Hasil</string>
+</resources>
